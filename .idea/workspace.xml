@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3535d7d-0aaa-4ac4-91fd-0c4db815d5c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deep-learing-from-scratch4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/bandit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/bandit_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/non_stationary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/dp_inplace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/gridworld_play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/policy_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/policy_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/value_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/importance_sampling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/mc_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/mc_control_offpolicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/mc_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/q_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/q_learning_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/sarsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/sarsa_off_policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/td_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/dezero1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/dezero2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/dezero3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/dezero4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/q_learning_nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/dqn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/gym_play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/replay_buffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/actor_critic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/reinforce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/simple_pg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/gridworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/gridworld_render.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2xc03ccju6387issEvHIQNRxXVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.actor_critic.executor": "Run",
+    "Python.avg.executor": "Run",
+    "Python.bandit.executor": "Run",
+    "Python.bandit_avg.executor": "Run",
+    "Python.dezero1.executor": "Run",
+    "Python.dezero2.executor": "Run",
+    "Python.dezero3.executor": "Run",
+    "Python.dezero4.executor": "Run",
+    "Python.dice.executor": "Run",
+    "Python.dp.executor": "Run",
+    "Python.dp_inplace.executor": "Run",
+    "Python.dqn.executor": "Debug",
+    "Python.gridworld_play.executor": "Run",
+    "Python.gym_play.executor": "Run",
+    "Python.importance_sampling.executor": "Run",
+    "Python.mc_control.executor": "Run",
+    "Python.mc_eval.executor": "Run",
+    "Python.non_stationary.executor": "Run",
+    "Python.policy_eval.executor": "Run",
+    "Python.policy_iter.executor": "Run",
+    "Python.q_learning.executor": "Run",
+    "Python.q_learning_nn.executor": "Run",
+    "Python.reinforce.executor": "Run",
+    "Python.replay_buffer.executor": "Run",
+    "Python.sarsa_off_policy.executor": "Run",
+    "Python.simple_pg.executor": "Run",
+    "Python.td_eval.executor": "Run",
+    "Python.value_iter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/azzssss/PycharmProjects/deep-learing-from-scratch4/common",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="policy_iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep-learing-from-scratch4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/policy_iter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.policy_iter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3535d7d-0aaa-4ac4-91fd-0c4db815d5c7" name="Changes" comment="" />
+      <created>1748221856487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748221856487</updated>
+      <workItem from="1748221857770" duration="32193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ch04/gridworld_play.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$td_eval.coverage" NAME="td_eval Coverage Results" MODIFIED="1748398992860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$importance_sampling.coverage" NAME="importance_sampling Coverage Results" MODIFIED="1748364198872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$mc_eval.coverage" NAME="mc_eval Coverage Results" MODIFIED="1748360048066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dp_inplace.coverage" NAME="dp_inplace Coverage Results" MODIFIED="1748314371418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$replay_buffer.coverage" NAME="replay_buffer Coverage Results" MODIFIED="1748489116156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$avg.coverage" NAME="avg Coverage Results" MODIFIED="1748223367010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$value_iter.coverage" NAME="value_iter Coverage Results" MODIFIED="1748321809489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dice.coverage" NAME="dice Coverage Results" MODIFIED="1748358991507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dqn.coverage" NAME="dqn Coverage Results" MODIFIED="1748574086643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$mc_control.coverage" NAME="mc_control Coverage Results" MODIFIED="1748362415493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$gridworld_play.coverage" NAME="gridworld_play Coverage Results" MODIFIED="1748319647504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$q_learning_nn.coverage" NAME="q_learning_nn Coverage Results" MODIFIED="1748451038160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$policy_eval.coverage" NAME="policy_eval Coverage Results" MODIFIED="1748320097436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$non_stationary.coverage" NAME="non_stationary Coverage Results" MODIFIED="1748227219869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dezero3.coverage" NAME="dezero3 Coverage Results" MODIFIED="1748449233045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dp.coverage" NAME="dp Coverage Results" MODIFIED="1748314177232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$bandit.coverage" NAME="bandit Coverage Results" MODIFIED="1748224529556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$simple_pg.coverage" NAME="simple_pg Coverage Results" MODIFIED="1748584775160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$q_learning.coverage" NAME="q_learning Coverage Results" MODIFIED="1748445836221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$policy_iter.coverage" NAME="policy_iter Coverage Results" MODIFIED="1748321798295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$sarsa_off_policy.coverage" NAME="sarsa_off_policy Coverage Results" MODIFIED="1748404942185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$reinforce.coverage" NAME="reinforce Coverage Results" MODIFIED="1748588013880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$bandit_avg.coverage" NAME="bandit_avg Coverage Results" MODIFIED="1748226219058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$gym_play.coverage" NAME="gym_play Coverage Results" MODIFIED="1748485332569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dezero1.coverage" NAME="dezero1 Coverage Results" MODIFIED="1748448322867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dezero4.coverage" NAME="dezero4 Coverage Results" MODIFIED="1748449921098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$dezero2.coverage" NAME="dezero2 Coverage Results" MODIFIED="1748448726890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07" />
+    <SUITE FILE_PATH="coverage/deep_learing_from_scratch4$actor_critic.coverage" NAME="actor_critic Coverage Results" MODIFIED="1748589976107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
+  </component>
+</project>
